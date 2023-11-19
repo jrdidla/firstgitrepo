@@ -1,3 +1,5 @@
 <html>
-  <body> <h1> All the pwoer with you.You can do anything and everything </h1></body>
+  <body> <h1> All the power with you.You can do anything and everything </h1>
+         <h1> You  are the creator for your destiny</h1>
+  </body>
 </html>
